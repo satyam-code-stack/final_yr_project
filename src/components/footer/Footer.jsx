@@ -60,9 +60,7 @@ const Footer = () => {
               <Link href="#" className="hover:text-blue-400">
                 <i className="fab fa-linkedin-in"></i>
               </Link>
-              <Link href="#" className="hover:text-blue-400">
-                <i className="fab fa-github"></i>
-              </Link>
+
             </div>
           </div>
         </div>
