@@ -15,10 +15,10 @@ const marqueeImages = [
 ];
 
 const teamMembers = [
-  { name: "Dr. Soumen Paul", gradient: "from-pink-500 to-purple-600" },
-  { name: "Mr Manasija Bhattacharya", gradient: "from-blue-500 to-cyan-600" },
-  { name: "Moumita Ghosh", gradient: "from-green-500 to-emerald-600" },
-  { name: "Sk. Sahnawaj", gradient: "from-orange-500 to-red-600" },
+  { name: "Dr. Soumen Paul",img:"", img:"hod_img.jpg", gradient: "from-pink-500 to-purple-600" },
+  { name: "Mr Manasija Bhattacharya", img:"mb_img.jpg", gradient: "from-blue-500 to-cyan-600" },
+  { name: "Moumita Ghosh", img:"moumita_img.jpg", gradient: "from-green-500 to-emerald-600" },
+  { name: "Sk. Sahnawaj", img:"sehnwaj_img.jpg", gradient: "from-orange-500 to-red-600" },
 ];
 
 const Counter = ({ end }) => {
