@@ -3,14 +3,15 @@
 import React, { useEffect, useState } from "react";
 
 const marqueeImages = [
-  "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-  "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-  "https://images.unsplash.com/photo-1526378722484-cc5c510a0d47?w=800",
-  "https://images.unsplash.com/photo-1525182008055-f88b95ff7980?w=800",
-  "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800",
-  "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
-  "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=800",
-  "https://images.unsplash.com/photo-1517430816045-df4b7de11d41?w=800",
+  "image1.jpg",
+  "image2.jpg",
+  "image3.jpg",
+  "image4.jpg",
+  "image5.jpg",
+  "image6.jpg",
+  "image7.jpg",
+  "image8.jpg",
+
 ];
 
 const teamMembers = [
