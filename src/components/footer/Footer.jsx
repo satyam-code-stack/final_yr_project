@@ -66,8 +66,8 @@ const Footer = () => {
         </div>
 
         <div className="mt-8 border-t border-gray-700 pt-4 text-center text-sm">
-          © {new Date().getFullYear()} ACM - HIT. All rights reserved.
-          Contributers :- Deepak Kumar , Satyam Kumar , Aman Kumar , Bibhuti Vishal
+          © {new Date().getFullYear()} ACM - HIT. All rights reserved.<br>Contributers :- Deepak Kumar , 
+          Satyam Kumar , Aman Kumar , Bibhuti Vishal</br>
         </div>
       </div>
     </footer>
