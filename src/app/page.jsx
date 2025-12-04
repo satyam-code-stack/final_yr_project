@@ -205,7 +205,7 @@ export default function ACMPage() {
           <h2 className="text-5xl font-black text-center mb-16">
             Meet Our{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-              Core Team
+              Core Members
             </span>
           </h2>
 
