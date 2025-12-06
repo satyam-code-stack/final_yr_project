@@ -61,6 +61,7 @@ const Footer = () => {
                 <i className="fab fa-linkedin-in"></i>
               </Link>
 
+
             </div>
           </div>
         </div>
@@ -70,9 +71,19 @@ const Footer = () => {
 
           <br />
 
-          Contributers :- Deepak Kumar ,
-
-          Satyam Kumar , Aman Kumar , Bibhuti Vishal
+          Contributers :-
+          <Link href="https://www.linkedin.com/in/satyam-bhardwaj7/" className="hover:text-blue-400">
+              <p>Satyam Kumar</p>
+          </Link>
+          <Link href="https://www.linkedin.com/in/deepak-kumar-0b4ba3280/" className="hover:text-blue-400">
+              <p>Deepak Kumar</p>
+          </Link>
+          <Link href="https://www.linkedin.com/in/aman-kumar-76656b254/" className="hover:text-blue-400">
+              <p>Aman Kumar</p>
+          </Link>
+          <Link href="https://www.linkedin.com/in/bibhuti-vishal-jha-0906012a7/" className="hover:text-blue-400">
+              <p>Bibhuti Vishal</p>
+          </Link>
         </div>
       </div>
     </footer>
